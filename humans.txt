@@ -8,6 +8,8 @@ doing some conflict resolutions
     <name> -- <role> -- <twitter>
     Banjo Adeboye
     AHhhhhhh, conflicts
+    web developer
+    software developer
 
 # THANKS
 
