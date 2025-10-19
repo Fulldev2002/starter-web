@@ -8,6 +8,7 @@
 # THANKS
 
     <name>
+    Appreciation to all students
 
 # TECHNOLOGY COLOPHON
 
