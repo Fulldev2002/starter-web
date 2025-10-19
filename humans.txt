@@ -3,6 +3,7 @@
 
 HI, I am modifying the file before rebase and now, trying to create conflict.
 doing some conflict resolutions
+Let's see how far we can go with this
 # TEAM
 
     <name> -- <role> -- <twitter>
