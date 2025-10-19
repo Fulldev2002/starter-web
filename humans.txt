@@ -8,6 +8,8 @@ HI, I am modifying the file before rebase and now, trying to create conflict.
     <name> -- <role> -- <twitter>
     Banjo Adeboye
     AHhhhhhh, conflicts
+    web developer
+    software developer
 
 # THANKS
 
