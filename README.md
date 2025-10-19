@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+I am making random changes
 
 ## Purpose
 Adding rebase features
