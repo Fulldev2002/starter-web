@@ -11,3 +11,4 @@ DOING MORE OF THISS
 Sample website with plenty of files for demos
 
 Adding GIT lectures for the course
+Adding new lectures of stash
